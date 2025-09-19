@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/172953072?s=200&v=4" alt="sec-open logo" width="120"/>
+  <img src="https://avatars.githubusercontent.com/u/232807396?s=200&v=4" alt="sec-open logo" width="120"/>
 </p>
 
 <h1 align="center">🔐 sec-open</h1>
